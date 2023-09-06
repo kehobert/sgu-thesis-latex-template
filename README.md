@@ -1,4 +1,4 @@
-# sgu-thesis-latex-template
+# SGU LaTeX Thesis Template for Master Degree
 A LaTeX based documentation for Swiss German University Master degree thesis
 
 See `Main.tex` to see the structure of the thesis files. To comment out certain file you don't want to compile, use % syntax to skip file compilation process.
